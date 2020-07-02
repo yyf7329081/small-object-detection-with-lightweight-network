@@ -9,10 +9,14 @@ DlaNet [paper](https://arxiv.org/abs/1707.06484)   [github](https://github.com/u
 ShuffleNetV2 [paper](https://arxiv.org/abs/1807.11164)
 
 This project gets better performance when facing small objects because DlaNet fuses features better and gets larger feature map. At the same time, its computation complexity and run time decrease greatly as lightweight framework and convolution module.
-![image](https://github.com/yyf7329081/small-object-detection-with-lightweight-network/blob/master/ImgForReadme/result.jpg)
 
-精度对比
+## Environment
+Ubuntu16.04
+GTX 1080 Ti
+Pytorch 1.0
+cuda 9.0
 
 
-速度对比
+## How to use
+A related blog will show you how to use this project to train and test in detail. It will be finished soon...
 

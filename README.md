@@ -8,3 +8,11 @@ DlaNet [paper](https://arxiv.org/abs/1707.06484)   [github](https://github.com/u
 
 ShuffleNetV2 [paper](https://arxiv.org/abs/1807.11164)
 
+This project gets better performance when facing small objects because DlaNet fuses features better and gets larger feature map. At the same time, its computation complexity and run time decrease greatly as lightweight framework and convolution module.
+![avatar](F:\硕士\毕业论文\毕业论文图片材料\visdrone_show\9999947_00000_d_0000012_det.jpg)
+
+精度对比
+![avatar](F:\github_repositories\upload\精度对比.png)
+
+速度对比
+![avatar](F:\github_repositories\upload\速度对比.png)

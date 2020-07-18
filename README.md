@@ -18,5 +18,6 @@ cuda 9.0
 
 
 ## How to use
-A related blog will show you how to use this project to train and test in detail. It will be finished soon...
+This project is mainly based on ThunderNet-ouyanghuiyu [github](https://github.com/ouyanghuiyu/Thundernet_Pytorch), so you can view the webpage above to use this project as a whole.
+By the way, A related blog will show you how to use this project to train and test in detail. It will be finished soon...
 
